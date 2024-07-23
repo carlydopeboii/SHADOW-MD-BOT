@@ -1,9 +1,15 @@
 <p align="center"><h1>SHADOW-MD-BOT </h1><br> </p>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝐒𝐡𝐚𝐝𝐨𝐰+𝐌𝐝+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐒𝐡𝐚𝐝𝐨𝐰+𝐖𝐫𝐥𝐝)](https://git.io/typing-svg)
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-![banner](Zokou.jpg)
+<p align="center"> 𝐒𝐡𝐚𝐝𝐨𝐰-𝐌𝐝💥, A Simple WhatsApp user BOT, Created by 𝐒𝐡𝐚𝐝𝐨𝐰-𝐖𝐫𝐥𝐝.
+</p>
+<p align="center">
+
 
  Shadow est un bot multi-devices conçu pour enrichir vos conversations WhatsApp avec des fonctionnalités utiles et amusantes. Qu'il s'agisse de gérer des fichiers, d'interagir avec des stickers ou de faciliter la gestion de groupe, Zokou est là pour vous aider.
 
