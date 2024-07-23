@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/carlydopeboii/SHADOW-MD-BOT  /root/my_app
-WORKDIR /root/my_app/
+RUN git clone https://github.com/carlydopeboii/SHADOW-MD-BOT  /root/shadowmd
+WORKDIR /root/shadowmd/
 
 
 COPY package.json .
