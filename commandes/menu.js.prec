@@ -44,7 +44,7 @@ zokou({ nomCom: "menu", categorie: "Général" }, async (dest, zk, commandeOptio
    ||      Date : ${date}
    ||      Heure : ${temps}
    ||      Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
-   ||  Développeurs : Shadow-Wrld
+   ||  Développeurs : 𝐒𝐡𝐚𝐝𝐨𝐰-𝐖𝐫𝐥𝐝
    ||
    ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
     menuMsg += `
@@ -57,7 +57,7 @@ zokou({ nomCom: "menu", categorie: "Général" }, async (dest, zk, commandeOptio
 ║    Heure : ${temps}
 ║    Mémoire : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 ║    Plateforme : ${os.platform()}
-║    Développeurs : Shadow-Wrld
+║    Développeurs : 𝐒𝐡𝐚𝐝𝐨𝐰-𝐖𝐫𝐥𝐝
 ╚════--------------- \n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
