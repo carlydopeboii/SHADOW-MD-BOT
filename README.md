@@ -26,7 +26,7 @@
 
 ## Obtenir Shadow
 
-1. Veillez cliquer sur **[Fork](https://github.com/FaouzKK/zokou-french-version-whatsapp-bot/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
+1. Veillez cliquer sur **[Fork](https://github.com/carlydopeboii/SHADOW-MD-BOT/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
 
 2. Obtenez une session du bot : <br>
   
@@ -37,7 +37,7 @@
 ## Déploiement
 - **déploiement sur heroku**
   1. si vous ne disposez pas de compte **heroku** cliquez [**ici**](https://id.heroku.com/login) pour vous en procurer un .
-  2.  cliquez [**ici**](https://dashboard.heroku.com/new?template=https://github.com/FaouzKK/zokou-french-version-whatsapp-bot) pour deployer le bot sur **heroku**
+  2.  cliquez [**ici**](https://dashboard.heroku.com/new?template=https://https://github.com/carlydopeboii/SHADOW-MD-BOT) pour deployer le bot sur **heroku**
 
 ## Contributions
 
@@ -47,9 +47,9 @@ Les contributions à Shadow sont les bienvenues ! Si vous avez des idées pour d
 
 Le Bot WhatsApp Shadow est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
-Profitez des fonctionnalités variées du Bot WhatsApp Zokou pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
+Profitez des fonctionnalités variées du Bot WhatsApp Shadow pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
 
 
 ## Developpeur :
  
-  [**ShadowWlrd**](https://github.com/carlydopeboii/SHADOW-MD-BOT/)
+  [**𝐒𝐡𝐚𝐝𝐨𝐰-𝐖𝐫𝐥𝐝**](https://github.com/carlydopeboii/SHADOW-MD-BOT/)
