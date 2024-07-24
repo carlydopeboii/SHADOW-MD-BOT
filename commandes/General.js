@@ -2,7 +2,7 @@
 
 
 
-const { france } = require("../framework/france");
+const { zokou } = require("../framework/zokou");
 const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
 
@@ -95,7 +95,7 @@ else {
 }
 });
 
-france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
