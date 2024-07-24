@@ -1,1 +1,213 @@
-const a35_0x3e439d=a35_0x585f;(function(0x5d384a,_0x24511a){const _0x14365e=a35_0x585f,_0x2fbc56=_0x5d384a();while(!![]){try{const _0x4147cf=parseInt(_0x14365e(0x108))/0x1*(parseInt(_0x14365e(0xe4))/0x2)+-parseInt(_0x14365e(0xfe))/0x3*(parseInt(_0x14365e(0x100))/0x4)+parseInt(_0x14365e(0xdc))/0x5+-parseInt(_0x14365e(0xee))/0x6+-parseInt(_0x14365e(0xe5))/0x7*(parseInt(_0x14365e(0x102))/0x8)+-parseInt(_0x14365e(0xde))/0x9+parseInt(_0x14365e(0xf1))/0xa;if(_0x4147cf===_0x24511a)break;else _0x2fbc56['push'](_0x2fbc56['shift']());}catch(_0x2af73f){_0x2fbc56['push'](_0x2fbc56['shift']());}}}(a35_0x4d85,0xa1a36));const util=require(a35_0x3e439d(0xe6)),fs=require('fs-extra'),{zokou}=require(dirname+a35_0x3e439d(0x106)),{format}=require(dirname+a35_0x3e439d(0x105)),os=require('os'),moment=require(a35_0x3e439d(0x107)),s=require(dirname+'/../set');function a35_0x4d85(){const _0x1f6af4=['5425JQruXD','util','\x0a│\x20\x20\x20*Mémoire*\x20:\x20','toLowerCase','\x0a│\x20\x20\x20*Mode*\x20:\x20','\x0a│\x20\x20\x20*Commandes*\x20:\x20','BOT','\x22nom\x20de\x20la\x20commande\x22\x0a\x20\x0a\x20Powered\x20By\x20𝐒𝐡𝐚𝐝𝐨𝐰-𝐌𝐝\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a*»»—————\x20★\x20—————««\x0a','\x0a│\x20\x20\x20*Développeurs\x20:\x20𝐒𝐡𝐚𝐝𝐨𝐰-𝐖𝐫𝐥𝐝\x20\x0a╰─────✧WA-BOT✧─────◆\x20\x0a\x0a','7167930RAPixc','totalmem','╭────❏\x20*','36767480OAedoM','Général','DD/MM/YYYY','menu','oui','HH:mm:ss','Je\x20suis\x20*𝐒𝐡𝐚𝐝𝐨𝐰-𝐌𝐝*,\x20développé\x20par\x20𝐒𝐡𝐚𝐝𝐨𝐰-𝐖𝐫𝐥𝐝','setDefault','\x0a│\x20\x20\x20*Owner*\x20:\x20','🥵🥵\x20Menu\x20erreur\x20','\x0a◇\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20◇\x0a*»»—————\x20★\x20—————««\x0aPour\x20utiliser\x20\x20une\x20\x20commande,\x20tapez\x20\x20','\x0a╭────✧','categorie','1056PUvOZy','\x0a│\x20\x20\x20*Heure\x20:\x20','10548NfPXRN','sendMessage','8080vlaZiF','format','\x0a👋\x20salut\x20','/../framework/mesfonctions','/../framework/zokou','moment-timezone','1929yMRYcl','length','privé','✧────◆\x0a│\x20\x20\x20*Préfixe*\x20:\x20','\x0a│\x20\x20\x20*Date*\x20:\x20','public','/../framework//zokou','\x0a╰═════════════⊷\x20\x0a','2355610TKVnLc','\x0a│\x20\x20\x20*Plateforme*\x20:\x20','10152063VeIjpG','nomCom','platform','*\x20❏','MODE','log','568hSPQiF'];a35_0x4d85=function(){return _0x1f6af4;};return a35_0x4d85();}function a35_0x585f(_0x1790f3,_0x343daf){const _0x4d85b1=a35_0x4d85();return a35_0x585f=function(_0x585fa6,_0x5a72f5){_0x585fa6=_0x585fa6-0xd7;let _0x5c9a19=_0x4d85b1[_0x585fa6];return _0x5c9a19;},a35_0x585f(_0x1790f3,_0x343daf);}zokou({'nomCom':a35_0x3e439d(0xf4),'reaction':'📁','categorie':a35_0x3e439d(0xf2)},async(_0x284b76,_0x3a88d9,_0x66b105)=>{const _0x4c2564=a35_0x3e439d;let {ms:_0x411939,repondre:_0x4b6bb8,prefixe:_0x5b8194,nomAuteurMessage:_0x364760,mybotpic:_0x4e1b80}=_0x66b105,{cm:_0x56a1f8}=require(_dirname+_0x4c2564(0xda));var _0x24e710={},_0x120f04=_0x4c2564(0xd9);s[_0x4c2564(0xe2)][_0x4c2564(0xe8)]()!=_0x4c2564(0xf5)&&(_0x120f04=_0x4c2564(0x10a));_0x56a1f8['map'](async(_0x3823eb,_0x13ab75)=>{const _0x49f590=_0x4c2564;if(!_0x24e710[_0x3823eb[_0x49f590(0xfd)]])_0x24e710[_0x3823eb['categorie']]=[];_0x24e710[_0x3823eb[_0x49f590(0xfd)]]['push'](_0x3823eb[_0x49f590(0xdf)]);}),moment['tz'][_0x4c2564(0xf8)]('Etc/GMT');const _0x1c8e8a=moment()[_0x4c2564(0x103)](_0x4c2564(0xf6)),_0x3cee04=moment()[_0x4c2564(0x103)](_0x4c2564(0xf3));let _0x51f020=_0x4c2564(0xfc)+s[_0x4c2564(0xeb)]+_0x4c2564(0xd7)+s['PREFIXE']+_0x4c2564(0xf9)+s['NOM_OWNER']+_0x4c2564(0xe9)+_0x120f04+_0x4c2564(0xea)+_0x56a1f8[_0x4c2564(0x109)]+_0x4c2564(0xd8)+_0x3cee04+_0x4c2564(0xff)+_0x1c8e8a+_0x4c2564(0xe7)+format(os[_0x4c2564(0xef)]()-os['freemem']())+'/'+format(os[_0x4c2564(0xef)]())+_0x4c2564(0xdd)+os[_0x4c2564(0xe0)]()+_0x4c2564(0xed),_0x11f370=_0x4c2564(0x104)+_0x364760+'\x20👋\x0a\x0a*Voici\x20la\x20liste\x20de\x20mes\x20commandes\x20:*\x0a◇\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20◇\x0a';for(const _0x248af2 in _0x24e710){_0x11f370+=_0x4c2564(0xf0)+_0x248af2+_0x4c2564(0xe1);for(const _0x1cb0e2 of _0x24e710[_0x248af2]){_0x11f370+='\x0a│\x20✿\x20'+_0x1cb0e2;}_0x11f370+=_0x4c2564(0xdb);}_0x11f370+=_0x4c2564(0xfb)+_0x5b8194+_0x4c2564(0xec);var _0x43001f=_0x4e1b80();if(_0x43001f['match'](/\.(mp4|gif)$/i))try{_0x3a88d9[_0x4c2564(0x101)](_0x284b76,{'video':{'url':_0x43001f},'caption':_0x51f020+_0x11f370,'footer':_0x4c2564(0xf7),'gifPlayback':!![]},{'quoted':_0x411939});}catch(_0x266ac6){console[_0x4c2564(0xe3)](_0x4c2564(0xfa)+_0x266ac6),_0x4b6bb8(_0x4c2564(0xfa)+_0x266ac6);}else{if(_0x43001f['match'](/\.(jpeg|png|jpg)$/i))try{_0x3a88d9['sendMessage'](_0x284b76,{'image':{'url':_0x43001f},'caption':_0x51f020+_0x11f370,'footer':_0x4c2564(0xf7)},{'quoted':_0x411939});}catch(_0x18d843){console[_0x4c2564(0xe3)](_0x4c2564(0xfa)+_0x18d843),_0x4b6bb8('🥵🥵\x20Menu\x20erreur\x20'+_0x18d843);}else _0x4b6bb8(_0x51f020+_0x11f370);}});
+const util = require('util');
+const fs = require('fs-extra');
+const { zokou } = require(__dirname + "/../framework/zokou");
+const { format, styletext } = require(__dirname + "/../framework/mesfonctions");
+//const {police}=require(__dirname+"/../framework/mesfonctions")
+const os = require("os");
+const moment = require("moment-timezone");
+const s = require(__dirname + "/../set");
+zokou({ nomCom: "menu", categorie: "Général" }, async (dest, zk, commandeOptions) => {
+    let { ms, repondre } = commandeOptions;
+    let { cm } = require(__dirname + "/../framework//zokou");
+    var coms = {};
+    var mode = "public";
+    if (s.MODE != "oui") {
+        mode = "privé";
+    }
+    var emoji = { "Général": "🌐", "Logo": "🎨", "Hentai": "🔥", "Weeb": "🌸", "Recherche": "🔍", "Conversion": "🌟", "Groupe": "♻️", "Autre": "🪖" };
+    cm.map(async (com, index) => { if (!coms[com.categorie])
+        coms[com.categorie] = []; coms[com.categorie].push(com.nomCom); });
+    const temps = moment(moment()).format("HH:MM:SS");
+    moment.tz.setDefault('asia/karachi ').locale("id");
+    const date = moment.tz("asia/karachi").format("DD/MM/YYYY");
+    console.log("date" + date);
+    console.log("temps " + temps);
+    let menuMsg = "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n";
+    /*menuMsg+=`
+    
+    
+    
+    Owner : ${s.NOM_OWNER} \n       || Commandes : ${cm.length} \n        || Date : ${date}\n || Heure : ${temps} \n || Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}\n || Plateforme : ${os.platform()}\n || Developpeur : Djalega++ \n\n ╰────────────────`;
+    
+    
+    
+    
+      
+    ╚═════ ▓▓ ࿇ ▓▓ ═════╝*/
+    /* menuMsg+=`
+   ╔════ ▓▓ ࿇ ▓▓ ════╗
+   
+   ||
+   ||     Préfixe : ${s.prefixe}
+   ||      Owner : ${s.NOM_OWNER}
+   ||      Commandes : ${cm.length}
+   ||      Date : ${date}
+   ||      Heure : ${temps}
+   ||      Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}                   {Plateforme : ${os.platform()}
+   ||  Développeurs : Djalega++||Luffy
+   ||
+   ╚════ ▓▓ ࿇ ▓▓ ════╝`;*/
+    menuMsg += `
+╔════---------
+║    Préfixe : ${s.PREFIXE}
+║    Owner : ${s.NOM_OWNER}    
+║    Mode : ${mode}
+║    Commandes:${cm.length}
+║    Date : ${date}
+║    Heure : ${temps}
+║    Mémoire : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+║    Plateforme : ${os.platform()}
+║    Développeurs : Djalega++||Luffy
+╚════--------------- \n\n`;
+    for (const cat in coms) {
+        if (!emoji[cat]) {
+            emoji[cat] = "💞";
+        }
+        menuMsg += `${emoji[cat]} ══ *${cat} * ══ ${emoji[cat]}\n`;
+        for (const cmd of coms[cat]) {
+            menuMsg += "\t  ║ " + cmd + "" + " \n";
+        }
+    }
+    //  var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg";
+    var link = s.IMAGE_MENU;
+    try {
+        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "by Djalega++" }, { quoted: ms });
+    }
+    catch (e) {
+        console.log("🥵🥵 Menu erreur " + e);
+        repondre("🥵🥵 Menu erreur " + e);
+    }
+});
+/*
+
+
+module.exports.commande =()=>
+  {
+    var nomCom=["menu","m","fonctions"];
+    var reaction="🐞"
+    var categorie="général"
+
+
+    return {nomCom,reaction,categorie,execute}
+  
+  // };*
+
+  
+
+ //var g=[];
+
+
+
+
+
+
+  
+
+  
+
+  
+
+
+
+
+var tt=[]
+
+ async  function execute(dest,zok,commandeOptions?)
+  {
+
+    var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg"
+    // var listCom =listeCommande()
+    let msg= "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n"
+
+
+//const listeCommande= async ()=> {
+  var tab=[];var tabCmd=[];
+    const tabCat= {};
+  const readDir = util.promisify(fs.readdir);
+  const readFile = util.promisify(fs.readFile);
+  //console.log("ch " + __dirname + '../')
+  var chemin= './commandes/'
+  var nomFichier = await readDir(__dirname)
+//console.log("installation des plugins ... ")
+  nomFichier.forEach((fichier) => {
+    if (fichier.endsWith(".js")) {
+      //console.log(fichier+" installé ✅")
+      // var { commande } = require(/**/ //'../'+chemin.replace(/./, '')+*/__dirname+'/'+fichier.split('.js')[0])
+//  var infoCom = commande()
+//  if(!infoCom.categorie) infoCom.categorie="général"
+// tabCat[infoCom.categorie].push(infoCom.nomCom[0])
+//  tabCmd[infoCom.nomCom[0]]
+/*  for(a of infoCom.categorie)
+     {
+       if(!msg.includes(a))
+       {
+       msg+=a+"\n"
+       msg+=infoCom.nomCom[0]+"\n"
+       }else{msg+=infoCom.nomCom[0]+"\n"}
+       
+     }*/
+//msg+=infoCom.categorie+infoCom.nomCom[0]
+//msg+=`🪰 ${infoCom.nomCom[0]} `+"\n"
+// tu = infoCom.nomCom[1]
+/*  for(var b=0;b<=infoCom.nomCom[0].length;b++)
+     {
+       msg+=infoCom.nomCom[b]
+     }*/
+/** ************************** */
+// for (var a of infoCom.nomCom[0])      {
+// console.log("aaaa "+a +" "+typeof a)
+//  tu.push(a)
+// msg+=a.normalize()+"\n"
+// msg+=infoCom.nomCom[0]
+// msg+=infoCom.nomCom[0]
+// msg+=infoCom.nomCom[0]
+//   tu[a]=infoCom.nomCom[0]
+//  tt.push(infoCom.nomCom[a])
+//tabCmd[a] = infoCom.execute
+// reaction[a]=infoCom.reaction
+// }
+/** ********************************************* */
+//    }
+//console.log("installation de plugins terminé 👍🏿")
+// return tab
+// })
+// console.log("fichier "+typeof nomFichier)
+//var txt="";
+/* for(var ctg in tabCat)
+   {
+     txt+=ctg;
+     txt+=tabCat.nomCom
+   }*/
+//}
+//var coms={}
+/* tabCmd.map
+   (async (cmds)=>
+     {
+       if(!coms[cmds.categerie])
+ coms[cmds.categorie]="général"
+ coms[cmds.categorie].push(cmds)
+       
+     }
+   
+   
+   
+)*/
+/* for(let a=0;a<=listeCommande.length;a++)
+   {
+     msg +=tt[a]
+   }*/
+/*
+   for(const categorie in tabCat)
+      {
+        msg+="*"+categorie+"*"+"\n"
+      
+    for(const comm of tabCat[categorie])
+      {
+        msg+=+'\n'+comm
+      }}
+
+    await zok.sendMessage(dest,{image :{url:link},caption:msg+txt});
+
+    */
+//   
+// }
