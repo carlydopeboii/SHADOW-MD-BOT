@@ -41,7 +41,7 @@ france({ nomCom: "owner", categorie: "General", reaction: "🧔" }, async (dest,
   } else {
     const vcard =
         'BEGIN:VCARD\n' + // metadata of the contact card
-        'VERSION:2.0\n' +
+        'VERSION:3.0\n' +
         'FN:' + conf.OWNER_NAME + '\n' + // full name
         'ORG:undefined;\n' + // the organization of the contact
         'TEL;type=CELL;type=VOICE;waid=' + conf.NUMERO_OWNER + ':+' + conf.NUMERO_OWNER + '\n' + // WhatsApp ID + phone number
