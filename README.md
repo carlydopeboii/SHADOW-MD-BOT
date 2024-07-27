@@ -37,18 +37,17 @@
 - <a href="https://zokouscan.onrender.com/"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
+
+</p>
+
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/carlydopeboii/SHADOW-MD-BOT&template=https://github.com/carlydopeboii/SHADOW-MD-BOT"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+
+
+
 1. Veillez cliquer sur **[Fork](https://github.com/carlydopeboii/SHADOW-MD-BOT/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeur
 
-2. Obtenez une session du bot : <br>
-  
-[Session-1](https://zkscan.onrender.com)  <br>
-[Session-2](https://zokouscan.onrender.com) <br>
   
 
-## Déploiement
-- **déploiement sur heroku**
-  1. si vous ne disposez pas de compte **heroku** cliquez [**ici**](https://id.heroku.com/login) pour vous en procurer un .
-  2.  cliquez [**ici**](https://dashboard.heroku.com/new?template=https://https://github.com/carlydopeboii/SHADOW-MD-BOT) pour deployer le bot sur **heroku**
 
 ## Contributions
 
