@@ -15,22 +15,20 @@
 
 
   <h1 align="center">SHADOW MD BEST WABOT</h1>
+ </a>
+</p>
+<p align="center">
+<a href="https://github.com/carlydopeboii"><img title="Author" src="https://img.shields.io/badge/carlydopeboii-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/18098042883"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/carlydopeboii?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/carlydopeboii?label=Followers&style=social"></a>
+</p>></a>                     
 
-## Fonctionnalités Principales
+   <h1 align="center"
 
-- **Téléchargement de Fichiers :** Shadow peut télécharger des fichiers audio et vidéo à partir de liens que vous lui envoyez, pour que vous puissiez les partager facilement avec vos contacts.
 
-- **Exportation de Stickers :** Vous pouvez exporter des stickers de Telegram et les utiliser dans vos conversations WhatsApp en les envoyant simplement à Shadow.
 
-- **Gestion de Groupe :** Shadow offre des fonctionnalités de gestion de groupe, comme l'ajout ou la suppression de membres, la configuration de règles et d'autres paramètres.
-
-- **Text to img :** Les meilleurs logos on été sélectionné pour votre confort.
-
-## Fonctionnalités Ludiques
-
-- **Blagues et Devinettes :** Shadow est équipé d'une collection de blagues et de devinettes pour égayer vos conversations.
-
-- **Citations Inspirantes :** Recevez des citations inspirantes pour vous motiver au quotidien.
+   ***
 
 
 </a></p>
