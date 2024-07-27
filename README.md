@@ -34,7 +34,7 @@
 
 
 </a></p>
-- <a href="https://zkscan.onrender.com/"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://zokouscan.onrender.com/"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
 1. Veillez cliquer sur **[Fork](https://github.com/carlydopeboii/SHADOW-MD-BOT/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeur
