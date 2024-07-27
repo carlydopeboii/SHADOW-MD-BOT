@@ -33,9 +33,11 @@
 - **Citations Inspirantes :** Recevez des citations inspirantes pour vous motiver au quotidien.
 
 
-## Obtenir Shadow
+</a></p>
+- <a href="https://shadow-md-251b102dfbde.herokuapp.com/"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
-1. Veillez cliquer sur **[Fork](https://github.com/carlydopeboii/SHADOW-MD-BOT/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
+
+1. Veillez cliquer sur **[Fork](https://github.com/carlydopeboii/SHADOW-MD-BOT/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeur
 
 2. Obtenez une session du bot : <br>
   
