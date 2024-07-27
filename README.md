@@ -1,17 +1,4 @@
-<p align="center"><h1>SHADOW-MD-BOT </h1><br> </p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝐒𝐡𝐚𝐝𝐨𝐰+𝐌𝐝+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐒𝐡𝐚𝐝𝐨𝐰+𝐖𝐫𝐥𝐝)](https://git.io/typing-svg)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<p align="center"> 𝐒𝐡𝐚𝐝𝐨𝐰-𝐌𝐝💥, A Simple WhatsApp user BOT, Created by 𝐒𝐡𝐚𝐝𝐨𝐰-𝐖𝐫𝐥𝐝.
-</p>
-<p align="center">
-
-
-  <img alt="wasi" height="300" src="https://telegra.ph/file/c9c0af94510158016f7c6.jpg">
+ <img alt="wasi" height="300" src="https://telegra.ph/file/c9c0af94510158016f7c6.jpg">
 
 
   <h1 align="center">SHADOW MD BEST WABOT</h1>
