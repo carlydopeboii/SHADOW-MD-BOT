@@ -14,7 +14,7 @@
   <img alt="wasi" height="300" src="https://telegra.ph/file/c9c0af94510158016f7c6.jpg">
 
 
- Shadow est un bot multi-devices conçu pour enrichir vos conversations WhatsApp avec des fonctionnalités utiles et amusantes. Qu'il s'agisse de gérer des fichiers, d'interagir avec des stickers ou de faciliter la gestion de groupe, Shadow est là pour vous aider.
+  <h1 align="center">SHADOW MD BEST WABOT</h1>
 
 ## Fonctionnalités Principales
 
