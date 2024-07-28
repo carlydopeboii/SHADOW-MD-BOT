@@ -24,25 +24,25 @@
 
 
 
-</p>
+***
 
 - <a href="https://dashboard.heroku.com/new?button-url=https://github.com/carlydopeboii/SHADOW-MD-BOT&template=https://github.com/carlydopeboii/SHADOW-MD-BOT"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
-</p>
 
+***
 
 - <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
-</p>
+***
 
 - <a href="https://uptimerobot.com"><img title="Run it on uptime" src="https://img.shields.io/badge/RUN ON UPTIME-h?color=blue&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
-</p>
+***
 
 - <a href="https://github.com/carlydopeboii"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 
-
+***
 
 1. Veillez cliquer sur **[Fork](https://github.com/carlydopeboii/SHADOW-MD-BOT/fork)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeur
 
