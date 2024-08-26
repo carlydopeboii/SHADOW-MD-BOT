@@ -22,16 +22,16 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🌏", nomFichier: __
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `salut 👋 
-voici *𝐒𝐡𝐚𝐝𝐨𝐰-𝐌𝐝.*\n TU DEPLOYER A PARTIR DU *REPO*, *SESSION_ID*  ' https://habot.000webhostapp.com/ '
+Voici *Shadow-Md.*\n TU DEPLOYER A PARTIR DU *REPO*, *SESSION_ID*  ' https://habot.000webhostapp.com/ '
 
 🗼 *REPOSITORY:* ${data.html_url}
 ✨ *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-👨‍💻 *OWNER:* *𝐒𝐡𝐚𝐝𝐨𝐰-𝐖𝐫𝐥𝐝*
+👨‍💻 *OWNER:* *Shadow-Wrld*
 __________________________________
-            *Made With* 𝐒𝐡𝐚𝐝𝐨𝐰-𝐖𝐫𝐥𝐝`;
+            *Made With* Shadow-Wrld`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
