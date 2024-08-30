@@ -1,6 +1,6 @@
 const {
   zokou
-} = require("__dirname + "/../framework/zokou");
+} = require(__dirname + "/../framework/zokou");
 zokou({
   'nomCom': 'github',
   'reaction': '📃',
