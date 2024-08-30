@@ -11,14 +11,14 @@ const s = require(__dirname + "/../config");
 const more = String.fromCharCode(8206)
 const Taphere = more.repeat(4001)
 
-adams({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions) => {
+adams({ nomCom: "menu", categorie: "Général" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../Ibrahim//adams");
     var coms = {};
     var mode = "public";
     
-    if ((s.MODE).toLocaleLowerCase() != "yes") {
-        mode = "private";
+    if ((s.MODE).toLocaleLowerCase() != "oui") {
+        mode = "privé";
     }
 
 
