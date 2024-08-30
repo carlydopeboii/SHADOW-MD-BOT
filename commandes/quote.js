@@ -1,7 +1,7 @@
 
-const { adams } = require('../Ibrahim/adams');
+const { zokou } = require('__dirname + "/../framework/zokou');
 
-adams({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, verifGroupe, arg } = commandeOptions;
   if (!verifGroupe) {
     repondre('Commande réservée au groupe uniquement');
