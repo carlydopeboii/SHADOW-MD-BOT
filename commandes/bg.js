@@ -1,21 +1,21 @@
 const util = require('util');
 const fs = require('fs-extra');
-const { adams } = require(__dirname + "/../Ibrahim/adams");
-const { format } = require(__dirname + "/../Ibrahim/mesfonctions");
+const { zokou } = require(__dirname + "/../framework/zokou");
+const { format, styletext } = require(__dirname + "/../framework/mesfonctions");
 const os = require("os");
 const moment = require("moment-timezone");
-const s = require(__dirname + "/../config");
+const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const Taphere = more.repeat(4001)
 
-adams({ nomCom: "bugmenu", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "bugmenu", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
-    let { cm } = require(__dirname + "/../Ibrahim//adams");
+    let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
     var mode = "public";
     
-    if ((s.MODE).toLocaleLowerCase() != "yes") {
-        mode = "private";
+    if ((s.MODE).toLocaleLowerCase() != "oui") {
+        mode = "privé";
     }
 
 
