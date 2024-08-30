@@ -1,1 +1,50 @@
-const a40_0x2c287b=a40_0xca6c;function a40_0x358d(){const _0x3868fe=['quote','Erreur\x20lors\x20de\x20la\x20génération\x20de\x20la\x20citation\x20:\x20','1873255Xieits','╔══════════════════════════╗\x0a║\x20\x20\x20Zokou-md\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20║\x0a╚══════════════════════════╝\x0a\x0a🎬\x20Anime:\x20','1275492GPRSwM','8mOeGVh','573EtwFKd','../framework/zokou','606697Pitsqf','message','https://animechan.xyz/api/random','https://animechan.xyz/api/random/character?name=','253wMmvFH','anime','then','Fun','json','join','\x0a💬\x20Citation:\x20','1053370KdLZdQ','\x0a\x0aPropulsé\x20par\x20Zokou-MD','character','2095846sSEgOX','\x0a👤\x20Personnage:\x20','11083383slVZVx','citation','1vhfDBS','28308iHptIz'];a40_0x358d=function(){return _0x3868fe;};return a40_0x358d();}(function(_0x1d0e10,_0x33cf84){const _0x456173=a40_0xca6c,_0x3fe333=_0x1d0e10();while(!![]){try{const _0x393909=parseInt(_0x456173(0x19c))/0x1*(parseInt(_0x456173(0x198))/0x2)+parseInt(_0x456173(0x1a4))/0x3*(parseInt(_0x456173(0x19d))/0x4)+-parseInt(_0x456173(0x1a0))/0x5+-parseInt(_0x456173(0x1a2))/0x6+parseInt(_0x456173(0x1a6))/0x7+-parseInt(_0x456173(0x1a3))/0x8*(-parseInt(_0x456173(0x19a))/0x9)+parseInt(_0x456173(0x195))/0xa*(-parseInt(_0x456173(0x18e))/0xb);if(_0x393909===_0x33cf84)break;else _0x3fe333['push'](_0x3fe333['shift']());}catch(_0xf46376){_0x3fe333['push'](_0x3fe333['shift']());}}}(a40_0x358d,0xaccdc));function a40_0xca6c(_0x38af4c,_0x5cfb4e){const _0x358dd1=a40_0x358d();return a40_0xca6c=function(_0xca6c63,_0x488096){_0xca6c63=_0xca6c63-0x18d;let _0x4d65c3=_0x358dd1[_0xca6c63];return _0x4d65c3;},a40_0xca6c(_0x38af4c,_0x5cfb4e);}const {zokou}=require(a40_0x2c287b(0x1a5)),traduire=require('../framework/traduction');zokou({'nomCom':a40_0x2c287b(0x19b),'categorie':a40_0x2c287b(0x191)},async(_0x2fcd34,_0x57593a,_0x1af721)=>{const _0x568e78=a40_0x2c287b,{ms:_0x19c5d8,repondre:_0x46e43c,verifGroupe:_0x5c2ac3,arg:_0x120359}=_0x1af721;if(!_0x5c2ac3){_0x46e43c('Commande\x20réservée\x20au\x20groupe\x20uniquement');return;}if(!_0x120359[0x0])try{fetch(_0x568e78(0x1a8))[_0x568e78(0x190)](_0x195c78=>_0x195c78['json']())[_0x568e78(0x190)](async _0x1c9ca6=>{const _0x35653c=_0x568e78;_0x46e43c('╔══════════════════════════╗\x0a║\x20\x20\x20Zokou-md\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20║\x0a╚══════════════════════════╝\x0a\x0a🎬\x20Anime:\x20'+_0x1c9ca6[_0x35653c(0x18f)]+_0x35653c(0x199)+_0x1c9ca6[_0x35653c(0x197)]+_0x35653c(0x194)+await traduire(_0x1c9ca6[_0x35653c(0x19e)],{'to':'fr'})+'\x0a\x0aPropulsé\x20par\x20Zokou-MD');});}catch(_0x1aa8f4){_0x46e43c(_0x568e78(0x19f)+_0x1aa8f4['message']);}else{const _0x55045c=_0x120359[_0x568e78(0x193)]('\x20');try{fetch(_0x568e78(0x18d)+_0x55045c)[_0x568e78(0x190)](_0x2c0707=>_0x2c0707[_0x568e78(0x192)]())[_0x568e78(0x190)](async _0x2c639d=>{const _0x851e73=_0x568e78;_0x46e43c(_0x851e73(0x1a1)+_0x2c639d[_0x851e73(0x18f)]+_0x851e73(0x199)+_0x2c639d[_0x851e73(0x197)]+_0x851e73(0x194)+await traduire(_0x2c639d[_0x851e73(0x19e)],{'to':'fr'})+_0x851e73(0x196));});}catch(_0xf3fc79){_0x46e43c('Erreur\x20lors\x20de\x20la\x20génération\x20de\x20la\x20citation\x20:\x20'+_0xf3fc79[_0x568e78(0x1a7)]);}}});
+
+const { adams } = require('../Ibrahim/adams');
+
+adams({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, verifGroupe, arg } = commandeOptions;
+  if (!verifGroupe) {
+    repondre('Commande réservée au groupe uniquement');
+    return;
+  }
+
+  if (!arg[0]) {
+    try {
+      fetch('https://animechan.xyz/api/random')
+        .then((response) => response.json())
+        .then(async (quote) => {
+          repondre(`╔══════════════════════════╗
+║   Shadow-md               ║
+╚══════════════════════════╝
+
+🎬 Anime: ${quote.anime}
+👤 Character: ${quote.character}
+💬 Quote: ${quote.quote}
+
+Powered by SHADOW-MD`);
+        });
+    } catch (e) {
+      repondre('Erreur lors de la génération de la citation : ' + e.message);
+    }
+  } else {
+    const query = arg.join(' ');
+
+    try {
+      fetch('https://animechan.xyz/api/random/character?name=' + query)
+        .then((response) => response.json())
+        .then(async (quote) => {
+          repondre(`╔══════════════════════════╗
+║   Shadow-md               ║
+╚══════════════════════════╝
+
+🎬 Anime: ${quote.anime}
+👤 Character: ${quote.character}
+💬 Quote: ${quote.quote}
+
+Powered by SHADOW-MD`);
+        });
+    } catch (e) {
+      repondre('Erreur lors de la génération de la citation : ' + e.message);
+    }
+  }
+});
