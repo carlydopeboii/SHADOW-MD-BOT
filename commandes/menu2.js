@@ -27,26 +27,11 @@ zokou({ nomCom: "menu2", categorie: "Général" }, async (dest, zk, commandeOpti
     
     
     
-    Owner : ${s.NOM_OWNER} \n       || Commandes : ${cm.length} \n        || Date : ${date}\n || Heure : ${temps} \n || Mémoire : ${format(os.totalmem()-os.freemem())}/${format(os.totalmem())}\n || Plateforme : ${os.platform()}\n || Developpeur : Djalega++ \n\n ╰────────────────`;
     
 
 
     
 
-    cm.map(async (com, index) => {
-        if (!coms[com.categorie])
-            coms[com.categorie] = [];
-        coms[com.categorie].push(com.nomCom);
-    });
-
-    moment.tz.setDefault("Africa/Nairobi");
-
-// Créer une date et une heure en GMT
-const temps = moment().format('HH:mm:ss');
-const date = moment().format('DD/MM/YYYY');
-
-let infoMsg =  `
-*Salut🖐️* *${nomAuteurMessage}*
 ╭─────═━┈┈━═──━┈⊷
 ┇ 『𝐌𝐀𝐈𝐍』
 ┇ 🤖 ʙᴏᴛ ɴᴀᴍᴇ: *shadow ᴍᴅ*
@@ -107,7 +92,7 @@ for (const cat in coms) {
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "*BMW MD*, déveloped Ibrahim Adams" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "*SHADOW MD*, développé par Shadow_Wrld" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -117,7 +102,7 @@ for (const cat in coms) {
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *BMW MD*, déveloped Ibrahim Adams" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *SHADOW MD*, développé par Shadow-Wrld" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
