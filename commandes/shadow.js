@@ -1,5 +1,5 @@
-const { adams } = require("../Ibrahim/adams");
-const { delay, loading, react } = require("../Ibrahim/utils");
+const { zokou } = require("__dirname + "/../framework/zokou");
+const { delay, loading, react } = require("../zokou/utils");
 const moment = require("moment-timezone");
 const conf = require("../config.js");
 const fs = require("fs");
