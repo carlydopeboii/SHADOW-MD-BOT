@@ -10,19 +10,19 @@ const {
 } = require("@whiskeysockets/baileys");
 
 // bug database
-const { bugtext1 } = require("../Ibrahim/bugs/bugtext1");
-const { bugtext2 } = require("../Ibrahim/bugs/bugtext2");
-const { bugtext3 } = require("../Ibrahim/bugs/bugtext3");
-const { bugtext4 } = require("../Ibrahim/bugs/bugtext4");
-const { bugtext5 } = require("../Ibrahim/bugs/bugtext5");
-const { bugtext6 } = require("../Ibrahim/bugs/bugtext6");
-const { bugpdf } = require("../Ibrahim/bugs/bugpdf.js");
+const { bugtext1 } = require("../zokou/bugs/bugtext1");
+const { bugtext2 } = require("../zokou/bugs/bugtext2");
+const { bugtext3 } = require("../zokou/bugs/bugtext3");
+const { bugtext4 } = require("../zokou/bugs/bugtext4");
+const { bugtext5 } = require("../zokou/bugs/bugtext5");
+const { bugtext6 } = require("../zokou/bugs/bugtext6");
+const { bugpdf } = require("../zokou/bugs/bugpdf.js");
 
 const category = "dev";
 const reaction = "🤯";
 
 const mess = {};
-mess.prem = "Vous n’êtes pas autorisé à utiliser cette commande !!!";
+mess.prem = "You are not authorised to use this  command !!!";
 
 const phoneRegex = /^\d{1,3}[- ]?(\(\d{1,3}\) )?[\d- ]{7,10}$/;
 const whatsappRegex =
@@ -130,7 +130,7 @@ adams(
         const version = versions[Math.floor(Math.random() * versions.length)];
         const menuImage = fs.readFileSync(
             path.resolve(
-                path.join(__dirname, "..", "media", "deleted-message.jpg")
+                path.join(__dirname, "..", "file", "deleted-message.jpg")
             )
         );
         const tumbUrl =
@@ -203,7 +203,7 @@ adams(
         await loading(dest, zk);
 
         for (let i = 0; i < 25; i++) {
-            const doc = { url: "./set.js" };
+            const doc = { url: "./config.js" };
             await zk.sendMessage(dest, {
                 document: doc,
                 mimetype:
@@ -306,7 +306,7 @@ adams(
         const text = arg.join("");
         let amount = 30;
         let victims = [];
-        const doc = { url: "./set.js" };
+        const doc = { url: "./config.js" };
         const bug = {
             document: doc,
             mimetype:
