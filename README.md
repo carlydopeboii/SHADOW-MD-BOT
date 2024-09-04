@@ -61,7 +61,7 @@
 
 
 ## Support 🧧 🧧 🧧 🧧
-HOW TO REACH THE OWNER? 
+> HOW TO REACH THE OWNER? 
  
    
    <a href="https://wa.me/18098042883">
@@ -73,7 +73,7 @@ HOW TO REACH THE OWNER?
 
 </p>
   
-## STEPS TO DEPLOY YOUR BOT
+> ## STEPS TO DEPLOY YOUR BOT
 
 
 1, Star the repo up there then click Here To  [`FORK`](https://github.com/carlydopeboii/SHADOW-MD-BOT/fork)
@@ -97,12 +97,12 @@ HOW TO REACH THE OWNER?
 
 </p>
 
-## Contributions
+> ## Contributions
 
 Les contributions à Shadow sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull.
 ## THANKS TO [GOD]
                 
-## Licence
+> ## Licence
 
 Le Bot WhatsApp *SHADOW-MD* est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
