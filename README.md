@@ -73,40 +73,40 @@
 
 </p>
   
-> ## STEPS TO DEPLOY YOUR BOT
+## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/carlydopeboii/SHADOW-MD-BOT/fork)
+> 1, Star the repo up there then click Here To  [`FORK`](https://github.com/carlydopeboii/SHADOW-MD-BOT/fork)
 
-2, TAP ON GET SESSIONS
-
-
-3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
+> 2, TAP ON GET SESSIONS
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU...
-
-</p>
+> 3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
 
 
-
-
-
-
-
+> 4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU...
 
 </p>
 
-> ## Contributions
 
-Les contributions à Shadow sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull.
+
+
+
+
+
+
+</p>
+
+## Contributions
+
+> Les contributions à Shadow sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull.
 ## THANKS TO [GOD]
                 
-> ## Licence
+## Licence
 
-Le Bot WhatsApp *SHADOW-MD* est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
+> Le Bot WhatsApp *SHADOW-MD* est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
-Profitez des fonctionnalités variées du Bot WhatsApp *SHADOW-MD* pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
+> Profitez des fonctionnalités variées du Bot WhatsApp *SHADOW-MD* pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
 
 
 ## Developpeur :
