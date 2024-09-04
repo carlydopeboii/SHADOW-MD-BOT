@@ -10,7 +10,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/carlydopeboii"><img title="Author" src="https://img.shields.io/badge/carlydopeboii-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/18098042883"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/carlydopeboii"><img title="Author" src="https://img.shields.io/badge/carlydopeboii-black?style=for-the-badge&logo=Github"></a> <a href="https://wa.me/18098042883"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/carlydopeboii?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/carlydopeboii?label=Followers&style=social"></a>
