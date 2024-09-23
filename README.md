@@ -15192,7 +15192,7 @@
 <p/>
 <p align="center">
 <a href="https://github.com/carlydopeboii?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/carlydopeboii?label=Followers&style=social"></a>
-</p>></a>
+</p></a>
 
    </p>                
 
