@@ -37,12 +37,12 @@
 
 ***
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/carlydopeboii/SHADOW-MD-BOT&template=https://github.com/carlydopeboii/SHADOW-MD-BOT"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/carlydopeboii/SHADOW-MD-BOT&template=https://github.com/carlydopeboii/SHADOW-MD-BOT"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ***
 
-- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
 
 ***
 
@@ -50,7 +50,7 @@
 
 ***
 
-- <a href="https://github.com/carlydopeboii"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/carlydopeboii"><img title="Deploy On Render" src="https://img.shields.io/badge/DEV INFORMATION-h?color=grey&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
 
 ***
