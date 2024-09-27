@@ -111,4 +111,4 @@
 
 ## Developpeur :
  
-  [**𝐒𝐡𝐚𝐝𝐨𝐰-𝐖𝐫𝐥𝐝**](https://github.com/carlydopeboii/SHADOW-MD-BOT/)
+  [**🌹⃝⃞⃟𝚂𝙷𝙰𝙳𝙾𝚆𝄟✮͢≛⃝𝚆𝚁𝙻𝙳⃝⃞⃟🌹**](https://github.com/carlydopeboii/SHADOW-MD-BOT/)
