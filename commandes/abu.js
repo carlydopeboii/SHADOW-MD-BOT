@@ -9,7 +9,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "ibrahim", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "Shadow-Wrld", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -38,21 +38,14 @@ const date = moment().format('DD/MM/YYYY');
 *Yes my G what's up* 😎
 
 
-*Any way just follow the following channels*
 
-
-*Whatsapp channel*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
-
-*Youtube*
-> https://www.youtube.com/@ibrahimaitech
 
 *For more info*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://github.com/carlydopeboii
   `;
     
 let menuMsg = `
-> ©Ibrahim Adams 
+> ©SHADOW-WRLD 
 `;
 
    var lien = mybotpic();
@@ -121,24 +114,22 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BMW MD IMPORTANT INFO* 
+   *SHADOW MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ibrahimaitech/BMW-MD
+> https://github.com/carlydopeboii/SHADOW-MD-BOT
 
-*WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://github.com/carlydopeboii
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV* : *SHADOW-WRLD*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑰𝑩𝑹𝑨𝑯𝑰𝑴 𝑨𝑫𝑨𝑴𝑺 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
+     SHADOW WRLD SCIENCE
 
 ❒────────────────────❒`;
 
