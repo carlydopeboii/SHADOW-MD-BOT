@@ -29,7 +29,7 @@ Voici *Shadow-Md.*\n TU DEPLOYER A PARTIR DU *REPO*, *SESSION_ID*  ' https://hab
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-👨‍💻 *OWNER:* *Shadow-Wrld*
+👨‍💻 *OWNER:* *SHADOW-WRLD*
 __________________________________
             *Made With* Shadow-Wrld`;
 
