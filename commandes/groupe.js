@@ -26,13 +26,15 @@ zokou({ nomCom: "appel", categorie: "Groupe", reaction: "📣" }, async (dest, z
   } ;
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   var tag = ""; 
-  tag += `✦━━━━━━━❂❂━━━━━━━✦\n  
-              ❄ *𝐒𝐇𝐀𝐃𝐎𝐖 𝐌𝐃* ❄
-╔════❖═════❖════╗\n
-👥 Groupe : ${nomGroupe} 🚀 
-👤 Auteur : *${nomAuteurMessage}* 👋 
-📜 Message : *${mess}* 📝
-╚════❖═════❖════╝\n
+  tag +=`
+
+╭─────────────━┈⊷ 
+│🕸 𝐒𝐇𝐀𝐃𝐎𝐖 𝐌𝐃 𝐓𝐀𝐆
+╰─────────────━┈⊷ \n
+│👥 *Group* : ${nomGroupe} 
+│👤 *Hey😀* : *${nomAuteurMessage}* 
+│📜 *Message* : *${mess}* 
+╰─────────────━┈⊷\n
 \n
 
 ` ;
